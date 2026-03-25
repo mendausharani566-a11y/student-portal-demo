@@ -1,0 +1,24 @@
+# Student Portal Demo
+
+## 📌 Project Idea
+This is a simple student portal application designed to help students and administrators manage academic information efficiently.
+
+## 🎯 Features
+- Student Registration and Login
+- View Student Profile
+- Course Enrollment
+- View Marks and Attendance
+- Admin Dashboard
+
+## 💻 Technologies Used
+- Frontend: HTML, CSS
+- Backend: Python (Flask)
+- Database: SQLite
+
+## 🚀 Future Enhancements
+- Online assignment submission
+- Notifications system
+- Mobile-friendly UI
+
+## 👩‍🎓 Author
+Your Name USHARANI
